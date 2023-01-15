@@ -21,7 +21,7 @@ int main(){
 
 
     printf("%s ",(*d1).productName);
-    d1 ->price = 1390;
+    d1 ->price = 25;
     printf("%d bath\n",(*d1).price);
     printf("current price = ");
      printf("%d bath\n",d2.price);
